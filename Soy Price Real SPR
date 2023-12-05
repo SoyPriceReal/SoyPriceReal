@@ -1,4 +1,3 @@
-# Palkeoramix decompiler. 
 
 def storage:
   owner is addr at storage 0
